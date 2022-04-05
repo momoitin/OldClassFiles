@@ -1,0 +1,9 @@
+X: 10
+&x: 0x7ffd3cc3a7f4
+p: 0x7ffd3cc3a7f4
+&p: 0x7ffd3cc3a7f8
+*p: 10
+Q: 0x7ffd3cc3a7f8
+&Q: 0x7ffd3cc3a800
+*Q: 0x7ffd3cc3a7f4
+**Q: 10

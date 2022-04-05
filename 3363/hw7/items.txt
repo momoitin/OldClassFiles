@@ -1,0 +1,9 @@
+Tacos*Mexican*Tuesday* 3.49
+Teriyaki Chicken*Japanese*Friday* 8.99
+Lasagna*Italian*Wednesday*11.25
+Apple Pie*Classic American*Friday* 5.25
+Ratatouille*French*Monday* 6.99
+Bruschetta*Italian*Thursday* 8.39
+Burger and Fries*Classic American*Sunday* 7.49
+Butter Chicken*Indian*Saturday* 10.25
+Pad Thai*Thai*Wednesday* 10.45

@@ -1,0 +1,8 @@
+6
+11
+xxxx*xxxxxx
+x.........x
+x......\..x
+x.........x
+x...\../..x
+xxxxxxxxxxx

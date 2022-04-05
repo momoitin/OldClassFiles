@@ -1,0 +1,32 @@
+cd ..                   #go up a directory
+code .                  #open directory in VS code
+mkdir                   #makes new file directory
+ls                      #lists all files in current directory
+rm (-r)                 #removes a file (-r to remove a directory and all files in the directory)
+
+cp sourcefile destinationfile               #copy the content of the "sourcefile" to the new file "destinationfile"
+mv sourcefile destinationfile               #move the content of the "sourcefile" to the new file "destinationfile" / used to change the name of a file
+
+
+
+g++ (sourcecode.cpp) (-o newFileName)   #compiles code in sourcecode file and names it using -o
+./(newFileName)                         #runs the selected file in console
+
+code .                  #opens current directory in VS code, can replace with specific file name or directory to just open that
+explorer.exe .          #opens current directory in windows explorer, can replace with specific directory to just open that
+
+
+ssh dunlap@linprog.cs.fsu.edu           #connects to the linprog FSU server, requires password
+{
+    sftp dunlap@linprog.cs.fsu.edu          #connects to linprog server to transfer files
+    put *                                   #puts everything from the folder into the destination
+    put -r *                                #puts all files and folders into destination 
+    put <filename>                          #puts specific file into destination
+
+    get *
+    get -r *
+    get <filename>
+
+    lls                                     #list files in the local directory
+    lcd                                     #navigate though local directory using sftp 
+}

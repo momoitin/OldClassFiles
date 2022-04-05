@@ -1,0 +1,39 @@
+s1 = 
+s2 = Hello, World
+s3 = Welcome to Florida, have a nice day
+s4 = 12345
+
+Making the calls:
+	cin >> s1
+	getline(cin, s2, ',')
+	getline(cin, s3)
+Enter some sentences: 
+New string values:
+s1 = John
+s2 = was here
+s3 = but not there
+---------------------------
+result = DogFood
+s1 = DogFood
+s5 = The concatenation of the catapult is a catamaran
+s5.indexOf("cat") returns 7
+s5.indexOf("dog") returns -1
+s5.getLength() = 48
+s5[4] = c
+s5[10] = e
+s5[15] = o
+s5[52] = ascii 0
+s5.substring(10,16) = enation of the c
+s5.substring(23) = e catapult is a catamaran
+-----------------------------
+words = Greetings, Earthling
+words.getLength() = 20
+words = Kreepings, Earthzing
+words = Kreepings, Earthzing     Q
+words = Kreepings, Insane Earthzing     Q
+-----------------------------
+x = apple
+y = apply
+x < y is true
+x <= y is true
+x != y is true

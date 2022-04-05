@@ -1,0 +1,16 @@
+ls
+mkdir COP3363-hw3
+cd COP3363
+mkdir assign1 assign2
+ls
+rm -r assign2
+ls -l
+
+cd assign1
+vim MyFile.txt
+:wq
+cp MyFile.txt ~/COP3363-hw3
+cd ..
+mv MyFile.txt t_2.txt
+ls -l
+rm t_2.txt

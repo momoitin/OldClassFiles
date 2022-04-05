@@ -1,0 +1,7 @@
+	lw	0	1	five	load reg1 with 5 (uses symbolic address)
+	lw	0	2	six	load reg2 with -1 (uses numeric address)
+	nand 1 2 3
+	add 1 2 4
+done	halt				end of program
+five	.fill	11
+six	.fill	25

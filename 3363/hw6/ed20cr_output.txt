@@ -1,0 +1,34 @@
+1c1
+< Fom a misummer night's dream
+---
+> Exerpt from Shakespeare's A Midsummer Night's Dream - Act 2, Scene 1
+
+text1.txt:The cowslips tall her pensioners be:
+text1.txt:The King doth keep his revels here to-night:
+text2.txt:The cowslips tall her pensioners be:
+text2.txt:The king doth keep his revels here to-night:
+text1.txt:And I serve the Fairy Queen,
+text1.txt:To dew her orbs upon the green.
+text1.txt:In their gold coats spots you see;
+text1.txt:I must go seek some dewdrops here
+text1.txt:Our queen and all our elves come here anon.
+text1.txt:The King doth keep his revels here to-night:
+text1.txt:Take heed the queen come     not within his sight;
+text1.txt:She never had so sweet a changeling;
+text1.txt:And now they never meet in grove or green,
+text1.txt:By fountain clear, or spangled starlight sheen,
+text1.txt:Creep into acorn-cups and hide them there.
+text1.txt:Those that hobgoblin call you and sweet puck,
+text2.txt:And I serve the fairy queen,
+text2.txt:To dew her orbs upon the green.
+text2.txt:In their gold coats spots you see;
+text2.txt:I must go seek some dewdrops here
+text2.txt:Our queen and all our elves come here anon.
+text2.txt:The king doth keep his revels here to-night:
+text2.txt:Take heed the queen come not within his sight;
+text2.txt:She never had so sweet a changeling;
+text2.txt:And now they never meet in grove or green,
+text2.txt:By fountain clear, or spangled starlight sheen,
+text2.txt:Creep into acorn-cups and hide them there.
+text2.txt:Those that Hobgoblin call you and sweet Puck,
+
