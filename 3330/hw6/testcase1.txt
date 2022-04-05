@@ -1,0 +1,12 @@
+I
+test1.txt
+S
+I
+test2.txt
+S
+I
+blah
+S
+E
+exportFile.txt
+Q
